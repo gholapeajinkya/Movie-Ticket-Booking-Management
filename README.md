@@ -8,3 +8,9 @@ The system does not fulfill any other needs of the business.
 
 <img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
 <img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(68).png">
+
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(69).png">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(70).png">
+
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(71).png">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(72).png">
