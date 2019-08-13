@@ -5,14 +5,14 @@ timing, customers. The project tries to build an (Java)application program to re
 managing the Movie, Tickets, and Booking information. The system being developed is a system
 to handle needs of the customers who usually have spend much time for Movie ticket booking.
 
-<img align="left" width="400" height="250" src="https://drive.google.com/open?id=12XlZa02mEo8JKbSklReMISzPHNzxjC_g">
-<img width="400" height="250" src="https://drive.google.com/open?id=14VwG2gFpsBU_L1EXvLcSV25JtpIgrO0-">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
+<img width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(68).png">
 
-<img align="left" width="400" height="250" src="https://drive.google.com/open?id=1aJzkII0zM03X2VUsUroSZ6kwMMehKb_w">
-<img width="400" height="250" src="https://drive.google.com/open?id=1rByGPSc4KDNvndMBCQ8iUANN2FTQWY8h">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(69).png">
+<img width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(70).png">
 
-<img align="left" width="400" height="250" src="https://drive.google.com/open?id=1QtAhAMQI6hrN0oRJcGb90e0iCSN-WfBR">
-<img width="400" height="250" src="https://drive.google.com/open?id=1T5Oi6Y-NIrW30Yo5Shs50UlokSXzZyT-">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(71).png">
+<img width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(72).png">
 
 
 <p align="center">
