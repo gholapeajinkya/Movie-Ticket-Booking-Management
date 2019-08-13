@@ -6,4 +6,5 @@ managing the Movie, Tickets, and Booking information. The system being developed
 to handle needs of the customers who usually have spend much time for Movie ticket booking.
 The system does not fulfill any other needs of the business.
 
-<img align="left" width="100" height="100" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(68).png">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
+<img align="left" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(68).png">
