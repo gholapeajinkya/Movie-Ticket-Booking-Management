@@ -20,7 +20,6 @@ A step by step series of examples that tell you how to get a development env run
 * **Ajinkya Gholape** 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 ## Running the tests
-Following are few screenshots of the UI,
 <img align="left" title="Login Screen" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
 
 <img title="Home Screen" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(68).png">
