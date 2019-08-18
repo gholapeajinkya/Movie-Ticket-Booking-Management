@@ -18,7 +18,7 @@ A step by step series of examples that tell you how to get a development env run
 ## Authors
 
 * **Ajinkya Gholape** 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/contributors.txt) who participated in this project.
 ## Running the tests
 <img align="left" title="Login Screen" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
 
