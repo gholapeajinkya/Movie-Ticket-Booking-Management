@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Java
 * Database MySql
 ### Installing
-A step by step series of examples that tell you how to get a development env running
+A step by step series of instruction that tell you how to get a development env running
 1. [Click here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) to download **JDK 8**
 2. [Click here](https://netbeans.org/downloads/8.0.1/) to download **Netbeans IDE**
 3. & finally [click here](https://www.apachefriends.org/download.html) to download **XAMPP Control Panel** 
