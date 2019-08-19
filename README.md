@@ -15,10 +15,6 @@ A step by step series of instruction that tell you how to get a development env 
 1. [Click here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) to download **JDK 8**
 2. [Click here](https://netbeans.org/downloads/8.0.1/) to download **Netbeans IDE**
 3. & finally [click here](https://www.apachefriends.org/download.html) to download **XAMPP Control Panel** 
-## Authors
-
-* **Ajinkya Gholape** 
-See also the list of [contributors](https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/contributors.txt) who participated in this project.
 ## Running the tests
 <img align="left" title="Login Screen" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(67).png">
 
@@ -32,6 +28,9 @@ See also the list of [contributors](https://github.com/ajinkyagholape1998/Movie-
 
 <img title="Payment Screen" width="400" height="250" src="https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/Screenshots/Screenshot%20(72).png">
 
+## Authors
+* **Ajinkya Gholape** 
+See also the list of [contributors](https://github.com/ajinkyagholape1998/Movie-Ticket-Booking/blob/master/contributors.txt) who participated in this project.
 
 <p align="center">
  :smile::smile::smile:
