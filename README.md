@@ -1,4 +1,4 @@
-# Movie-Ticket-Booking
+# Movie-Ticket-Booking-Management
 ## Academic Project 2017-18
 The main purpose of this project is to manage the details of the movie ticket booking, show timing, customers. The project tries to build a (Java)application program to reduce the manual work for managing the Movie, Tickets and Booking information. The system being developed is a system to handle the needs of the customers who usually have spent much time on Movie ticket booking.
 ## Getting Started
